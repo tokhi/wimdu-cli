@@ -1,4 +1,24 @@
-Z# Wimdu coding challenge
+# SETUP:
+from the project root:
+
+```
+1. bundle install
+
+2. ruby db.rb config
+
+3. ruby wimducli.rb new 
+
+4. ruby wimducli.rb list
+
+5. ruby wimducli.rb continue <id>
+
+
+
+
+---
+
+
+# Wimdu coding challenge
 
 On wimdu.com, people can list their place to rent out. Wouldn't it be
 great if there was a more nerdy way to enter your data? How about a
